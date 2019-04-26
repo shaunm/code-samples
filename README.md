@@ -8,4 +8,7 @@ The following two projects are selected with equal weight. While neither aimed t
 
 
 If you have any questions, please feel free to email me. 
-More of my work can be found at https://ngtapps.com
+
+More of my work can be found:
+<br> https://ngtapps.com
+<br> https://github.com/sman1/secfilings
